@@ -1,0 +1,130 @@
+//margin
+.mt-42 {
+    margin-top: 42px;
+  }
+  
+  .mt-40 {
+    margin-top: 40px;
+  
+  }
+  
+  .mb-21 {
+    margin-bottom: 21px;
+  
+  }
+  
+  .mb-28 {
+    margin-bottom: 28px;
+  
+  }
+  
+  .mb-40 {
+    margin-bottom: 40px;
+  
+  }
+  
+  .mb-44 {
+    margin-bottom: 44px;
+  
+  }
+  
+  .mb-50 {
+    margin-bottom: 50px;
+  
+  }
+  
+  .mb-66 {
+    margin-bottom: 66px;
+  
+  }
+  
+  .mb-80 {
+    margin-bottom: 80px;
+  
+  }
+  
+  //padding
+  
+  .pt-40 {
+    padding-top: 40px;
+  
+  }
+  
+  .pb-40 {
+    padding-bottom: 40px;
+  
+  }
+  .pt-80 {
+    padding-top: 80px;
+  
+  }
+  
+  .pb-80 {
+    padding-bottom: 80px;
+  
+  }
+  
+body{
+    color: #fff;
+}
+
+  //gradient
+  .gradient-text {
+    color: transparent;
+    background: linear-gradient(#09ACF5, #62DB54);
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+  
+  .gradient-button {
+    background: linear-gradient(104deg, #09ACF5, #62DB54);
+  }
+  
+  //font
+  .font {
+    font-family: 'Azeret Mono', monospace;
+  }
+  
+//   //button
+//   .button-hover:hover {
+//     color: $success;
+//     border-color: $success;
+//   }
+  
+//   .primary-bg:hover {
+//     background: $primary;
+//   }
+  
+//   //hover
+//   .color-hover:hover {
+//     color: $success;
+//     border-color: $success;
+//   }
+  
+//   //list
+//   .list-none {
+//     list-style: none;
+//   }
+  
+//   //偽元素 border 
+//   .tittle-border {
+//     margin-left: auto;
+//     margin-right: auto;
+  
+//   }
+  
+//   .tittle-border::before {
+//     content: "";
+//     position: absolute;
+//     width: 50px;
+//     border-bottom: solid 3px $success;
+//     bottom: -16px;
+//     transform: (translatex(- 50%))
+//   }
+  
+//   //偽元素 box 
+//   .box-border {
+//     width: 10px;
+//     height: 10px;
+//     background: $secondary;
+//   }

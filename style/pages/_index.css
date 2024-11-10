@@ -1,0 +1,10 @@
+.banner {
+  background-image: url(../images/bg_home.jpg);
+  background-size: cover;
+  padding: 205px 0;
+}
+.banner .square {
+  width: 10px;
+  height: 10px;
+  color: #fff;
+}/*# sourceMappingURL=_index.css.map */
